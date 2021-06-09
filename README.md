@@ -28,14 +28,14 @@ Here are some ideas to get you started:
 ------------------------------------------
 <h3 align = "center"> <b>🌎 Social Network Site 🌎</b></h3>
 
-<a href="https://instagram.com/alpox.dev">
+<a href="https://instagram.com/seoyoon04_">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/seoyoon04_/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://alpox.kr">
+<a href="https://blog.naver.com/sykim8483">
     <img 
-        src="http://img.shields.io/badge/-naver-03C75A?style=flat&logo=naver&link=https://alpox.kr"
+        src="http://img.shields.io/badge/-naver-03C75A?style=flat&logo=naver&logoColor=white&link =https://blog.naver.com/sykim8483"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
