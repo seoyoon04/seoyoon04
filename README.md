@@ -31,13 +31,15 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/seoyoon04_">
     <img 
         src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/seoyoon04_/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        style="height : auto;"/>
 </a>
 <a href="https://blog.naver.com/sykim8483">
     <img 
         src="http://img.shields.io/badge/-naver-03C75A?style=flat&logo=naver&logoColor=white&link =https://blog.naver.com/sykim8483"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        style="height : auto;"/>
 </a>
+
+-----------------------------------------------------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyoon04)](https://github.com/anuraghazra/github-readme-stats) [![Seoyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyoon04)](https://github.com/anuraghazra/github-readme-stats)
 
