@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 <h3 align = "center"> <b>🌎 Social Network Site 🌎</b></h3>
 
 <a href="https://instagram.com/seoyoon04_">
-    <img 
+    <img align = "center"
         src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/seoyoon04_/"
         style="height : auto;"/>
 </a>
 <a href="https://blog.naver.com/sykim8483">
-    <img 
-        src="http://img.shields.io/badge/-naver-03C75A?style=flat&logo=naver&logoColor=white&link =https://blog.naver.com/sykim8483"
+    <img align = "center"
+        src="http://img.shields.io/badge/-Naver-03C75A?style=flat&logo=Naver&logoColor=white&link =https://blog.naver.com/sykim8483"
         style="height : auto;"/>
 </a>
 
