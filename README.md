@@ -26,18 +26,21 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 
 ------------------------------------------
-<h3 align = "center"> <b>🌎 Social Network Site 🌎</b></h3>
 
-<a href="https://instagram.com/seoyoon04_">
-    <img align = "center"
-        src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/seoyoon04_/"
-        style="height : auto;"/>
-</a>
-<a href="https://blog.naver.com/sykim8483">
-    <img align = "center"
-        src="http://img.shields.io/badge/-Naver-03C75A?style=flat&logo=Naver&logoColor=white&link =https://blog.naver.com/sykim8483"
-        style="height : auto;"/>
-</a>
+<div align=center>
+    <h3 align = "center"> <b>🌎 Social Network Site 🌎</b></h3>
+
+    <a href="https://instagram.com/seoyoon04_">
+        <img align = "center"
+            src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/seoyoon04_/"
+            style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    </a>
+    <a href="https://blog.naver.com/sykim8483">
+        <img align = "center"
+            src="http://img.shields.io/badge/-Naver-03C75A?style=flat&logo=Naver&logoColor=white&link =https://blog.naver.com/sykim8483"
+            style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    </a>
+ </div>
 
 -----------------------------------------------------
 
