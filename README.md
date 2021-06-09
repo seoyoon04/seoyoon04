@@ -1,4 +1,4 @@
-<h1 align = "center"> Hi there 👋 </h1>
+<h2 align = "center"> Hi there 👋 </h2>
 
 <!--
 **seoyoon04/seoyoon04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,6 +26,18 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 
 ------------------------------------------
+<h3 align = "center"> <b>🌎 Social Network Site 🌎</b></h3>
+
+<a href="https://instagram.com/alpox.dev">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://alpox.kr">
+    <img 
+        src="http://img.shields.io/badge/-naver-03C75A?style=flat&logo=naver&link=https://alpox.kr"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyoon04)](https://github.com/anuraghazra/github-readme-stats) [![Seoyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyoon04)](https://github.com/anuraghazra/github-readme-stats)
 
