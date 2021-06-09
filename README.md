@@ -27,9 +27,15 @@ Here are some ideas to get you started:
 
 ------------------------------------------
 
-<div align=center>
-    <h3 align = "center"> <b>🌎 Social Network Site 🌎</b></h3>
 
+
+
+<h3 align = "center"> <b>🌎 Social Network Site 🌎</b></h3>
+
+
+
+
+<div align=center>
     <a href="https://instagram.com/seoyoon04_">
         <img align = "center"
             src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/seoyoon04_/"
@@ -41,6 +47,10 @@ Here are some ideas to get you started:
             style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>
  </div>
+ 
+ 
+ 
+ 
 
 -----------------------------------------------------
 
