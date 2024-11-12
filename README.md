@@ -54,9 +54,18 @@ Here are some ideas to get you started:
 
 -----------------------------------------------------
 
-<div align=center>
+<div>
+  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=ydmins&show_icons=true&theme=holi" width = "49%" height="130%" />
+  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=ydmins" width="42%" height="100%"/>
+</div>
+<div>
+  <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydmins&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
+</div>
+
+
+<!--<div align=center>
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoyoon04)](https://github.com/anuraghazra/github-readme-stats)
 ![Seoyoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyoon04&hide=contribs,prs&show_icons=true&theme=테마)
 
-</div>
+</div> --!>
