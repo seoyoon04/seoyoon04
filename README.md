@@ -55,22 +55,6 @@ Here are some ideas to get you started:
 -----------------------------------------------------
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seoyoon04&show_icons=true&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoyoon04&layout=compact&cache_seconds=1800" />
-</p>
-
-
-<!-- <div align-center>
-    <div>
-  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=seoyoon04&show_icons=true&theme=테마" width = "49%" height="130%" />
-  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=seoyoon04" width="42%" height="100%"/>
-    </div>
-    <div>
-      <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoyoon04&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
-    </div>
-</div> --!>
-
 
 
 
