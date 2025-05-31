@@ -55,10 +55,11 @@ Here are some ideas to get you started:
 -----------------------------------------------------
 
 
-<div align=center>    
-  <img src="https://github-readme-stats.vercel.app/api?username=seoyoon04&show_icons=true&" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoyoon04&layout=compact" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seoyoon04&show_icons=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoyoon04&layout=compact&cache_seconds=1800" />
+</p>
+
 
 <!-- <div align-center>
     <div>
