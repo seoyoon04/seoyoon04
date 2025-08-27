@@ -25,8 +25,9 @@
 <div align="center">
 
 ### Github Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=seoyoon04&show_icons=true&hide_border=true&bg_color=ffffff&title_color=2F80ED&text_color=333333&icon_color=FF6B6B)
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=seoyoon04&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2F80ED&icon_color=2F80ED&text_color=333333&include_all_commits=true&count_private=true" alt="GitHub Stats" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seoyoon04&theme=default&hide_border=true&background=ffffff&stroke=2F80ED&ring=2F80ED&fire=FF6B6B&currStreakLabel=333333&sideLabels=333333&currStreakNum=2F80ED&sideNums=2F80ED&dates=666666" alt="GitHub Streak" /> 
+<!--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seoyoon04&theme=default&hide_border=true&background=ffffff&stroke=2F80ED&ring=2F80ED&fire=FF6B6B&currStreakLabel=333333&sideLabels=333333&currStreakNum=2F80ED&sideNums=2F80ED&dates=666666" alt="GitHub Streak" /> -->
 </div>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=seoyoon04&theme=minimal&hide_border=true&bg_color=ffffff&color=2F80ED&line=2F80ED&point=FF6B6B&area=true&area_color=E3F2FD" alt="Contribution Graph" />
